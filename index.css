@@ -459,6 +459,9 @@ box-shadow: 0 0 25px var(--main-color);
 #menu-icon {
     display: block;
 }
+.page-center-1{
+    padding: 0;
+}
 .navbar {
     position: absolute;
     top: 70px;
